@@ -1,6 +1,7 @@
 # QuizApp (An App for Georgia Tech ECE 2035)
 
-![image](https://github.com/samarthpa/QuizApp/assets/102204163/6f4752aa-8b3a-488d-aeea-49ae40c3dcbf)
+![image](https://github.com/user-attachments/assets/0d554afb-eba9-4825-b929-f18005852683)
+
 
 As a member of an 8-engineer team, I played a key role in the development of a QuizApp using ReactJS for the Georgia Tech ECE 2035 class. This project involved creating a comprehensive and user-friendly platform for students to access and interact with a database consisting of 400+ sets and questions. My primary responsibility revolved around designing and implementing the search functionality, ensuring users could easily find relevant content within the app.
 
